@@ -17,6 +17,9 @@ coverage
 /cypress/videos/
 /cypress/screenshots/
 
+/docker-jwt/mongo-files/
+/root/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
