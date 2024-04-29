@@ -1,0 +1,5 @@
+{
+  "watch": ["./", "server", "someOtherDir"],
+  "ext": "js,ts,json",
+  "ignore": ["*.test.js", "*.test.ts", "node_modules", "dist", "coverage", "public"]
+}
