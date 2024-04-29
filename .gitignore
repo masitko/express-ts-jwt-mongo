@@ -13,11 +13,14 @@ dist
 dist-ssr
 coverage
 *.local
+*.pem
 
 /cypress/videos/
 /cypress/screenshots/
 
 /docker-jwt/mongo-files/
+/docker-jwt/nginx/certs/
+
 /root/
 
 # Editor directories and files
